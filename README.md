@@ -9,4 +9,4 @@
 
 유학사상 기말리포트 : 논어 텍스트 마이닝 및 데이터 시각화
 
-한국철학사 Engaged Learning : KoNLPy, SKlearn
+한국철학사 Engaged Learning : KoNLPy, SKlearn, Wordcloud, matplotlib
