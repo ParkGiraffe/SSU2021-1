@@ -1,5 +1,5 @@
 
-##디지털사운드 ANN과 CNN을 활용하여 음성 분류 인공지능 제작
+<h1> 디지털사운드 ANN과 CNN을 활용하여 음성 분류 인공지능 제작 </h1>
 
 ## ANN (Artificial Neural Network)
 1. 라이브러리 불러오기
