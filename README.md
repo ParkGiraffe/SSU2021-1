@@ -10,6 +10,7 @@
 - 기말과제 : LSTM을 이용한 뉴스기사 성향분석
 
 디지털 사운드 : pytorch, matplotilb, librosa, pandas, numpy 등 다양한 모듈을 활용하여 오디오 분류 예측 인공지능 프로그램 제작
+
 *라이센스 문제로 csv 파일은 올리지 않음. 
 
 
